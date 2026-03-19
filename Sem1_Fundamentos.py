@@ -38,7 +38,12 @@ def Multiplicacion (num4, num5):
     return mul
 
     print(Multiplicacion(5, 5))
+    
+def SUMA (num6, num7):
+    sum=num6+num7
+    return sum
 
+    print(SUMA(5, 5))
 
 
 
